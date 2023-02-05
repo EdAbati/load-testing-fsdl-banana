@@ -52,5 +52,5 @@ This repository contains the code used to execute a load test of the GPU deploym
 
 ## Useful resources
 To learn about `locust` and how to write load tests for ML models, check out the following resources:
-- [FSDL 2022 course repo](https://github.com/full-stack-deep-learning/fsdl-text-recognizer-2022/blob/main/notebooks/lab99_loadtesting.ipynb)]
+- [FSDL 2022 course repo](https://github.com/full-stack-deep-learning/fsdl-text-recognizer-2022/blob/main/notebooks/lab99_loadtesting.ipynb)
 - https://github.com/sayakpaul/deploy-hf-tf-vision-models/tree/main/hf_vision_model_tfserving_gke/locust
