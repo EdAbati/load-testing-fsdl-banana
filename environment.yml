@@ -1,4 +1,4 @@
-name: load-testing-fsdl
+name: load-testing-fsdl-banana
 channels:
   - defaults
   - conda-forge
